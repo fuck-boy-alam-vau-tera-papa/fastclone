@@ -397,13 +397,13 @@ logo = ("""\033[1;32m
 ░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝╚═╝░░╚═╝   \033
 __________________×______________________
   
-  Auther   :  UZAIR MEHAR
+  Auther   :  MD ALAMGIR HOSEN
  
-  Github   :  UZAIR-009
+  Github   :  fastclone
 
-  Facebook : ⭐⭐⭐⭐
+  Facebook : https://www.facebook.com/TeraPaPa.ALAMgir.HoSeN ⭐⭐⭐⭐
   
-  Contact : 03407275127
+  Contact : 01712034653
 __________________×______________________\033[1;37m""")
 
 class Main:
